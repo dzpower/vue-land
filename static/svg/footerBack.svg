@@ -1,0 +1,378 @@
+<svg width="1228" height="618" viewBox="0 0 1228 618" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g clip-path="url(#clip0)">
+        <rect x="-0.555664" y="-152.488" width="1366.04" height="770.753" fill="url(#pattern0)" class="svg-elem-1"></rect>
+        <path d="M-0.600098 41.5C-0.600098 41.5 115.4 62.5 175.4 167.5C235.4 272.5 250.4 293.5 291.4 315.5C360.4 352.5 677.5 328.1 608.4 453.5C505.4 640.5 784.4 605.5 1132.4 618.5H-0.600098V41.5Z" fill="#ECE4E9" class="svg-elem-2"></path>
+        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="-1" y="41" width="1134" height="578">
+            <path d="M-0.600098 41.5C-0.600098 41.5 115.4 62.5 175.4 167.5C235.4 272.5 250.4 293.5 291.4 315.5C360.4 352.5 677.5 328.1 608.4 453.5C505.4 640.5 784.4 605.5 1132.4 618.5H-0.600098V41.5Z" fill="#ECE4E9" class="svg-elem-3"></path>
+        </mask>
+        <g mask="url(#mask0)">
+            <path d="M577.6 -177.3L-223.2 266.3" stroke="white" stroke-miterlimit="10" class="svg-elem-4"></path>
+            <path d="M563 -70.2002L-237.8 373.4" stroke="white" stroke-miterlimit="10" class="svg-elem-5"></path>
+            <path d="M550.9 34.5L-233.4 468.9" stroke="white" stroke-miterlimit="10" class="svg-elem-6"></path>
+            <path d="M583.7 116.3L-243.9 574.8" stroke="white" stroke-miterlimit="10" class="svg-elem-7"></path>
+            <path d="M574.9 220.2L-216.9 658.8" stroke="white" stroke-miterlimit="10" class="svg-elem-8"></path>
+            <path d="M555.1 329.8L-38.9004 658.8" stroke="white" stroke-miterlimit="10" class="svg-elem-9"></path>
+            <path d="M733.1 329.8L139.1 658.8" stroke="white" stroke-miterlimit="10" class="svg-elem-10"></path>
+            <path d="M911.1 329.8L317.1 658.8" stroke="white" stroke-miterlimit="10" class="svg-elem-11"></path>
+            <path d="M1089.1 329.8L495.1 658.8" stroke="white" stroke-miterlimit="10" class="svg-elem-12"></path>
+            <path d="M1190.1 375.8L596.1 704.8" stroke="white" stroke-miterlimit="10" class="svg-elem-13"></path>
+            <path d="M1323.1 409.8L729.1 738.8" stroke="white" stroke-miterlimit="10" class="svg-elem-14"></path>
+            <path d="M-424.7 418.6L353.9 900" stroke="white" stroke-miterlimit="10" class="svg-elem-15"></path>
+            <path d="M-324.2 378.9L454.4 860.4" stroke="white" stroke-miterlimit="10" class="svg-elem-16"></path>
+            <path d="M-226.9 338.3L535.6 809.8" stroke="white" stroke-miterlimit="10" class="svg-elem-17"></path>
+            <path d="M-280.7 202.2L631.1 766" stroke="white" stroke-miterlimit="10" class="svg-elem-18"></path>
+            <path d="M-179.2 163.1L693.2 702.5" stroke="white" stroke-miterlimit="10" class="svg-elem-19"></path>
+            <path d="M-63.1001 133.5L833.2 687" stroke="white" stroke-miterlimit="10" class="svg-elem-20"></path>
+            <path d="M-28.2002 53.7L943.6 654.6" stroke="white" stroke-miterlimit="10" class="svg-elem-21"></path>
+            <path d="M-145.6 -120.3L564.3 318.7" stroke="white" stroke-miterlimit="10" class="svg-elem-22"></path>
+            <path d="M-31.7002 -151.6L545.8 205.5" stroke="white" stroke-miterlimit="10" class="svg-elem-23"></path>
+            <path d="M177.8 -126.3L887.8 312.7" stroke="white" stroke-miterlimit="10" class="svg-elem-24"></path>
+            <path d="M60.3999 -300.3L770.3 138.7" stroke="white" stroke-miterlimit="10" class="svg-elem-25"></path>
+        </g>
+        <path d="M181.6 213.5L192.4 205.3L58.4 123.5L47.5 130.1L181.6 213.5Z" fill="url(#paint0_linear)" class="svg-elem-26"></path>
+        <path d="M173.6 236.5L184.4 228.3L33.4 136.5L22.5 143.1L173.6 236.5Z" fill="url(#paint1_linear)" class="svg-elem-27"></path>
+        <path d="M47.2999 129.8L35.3999 123.2V16.9001L47.2999 23.5002V129.8Z" fill="#F65C00" class="svg-elem-28"></path>
+        <path d="M47.2998 129.8L59.0998 123.2V16.9001L47.2998 23.5002V129.8Z" fill="#FB9E57" class="svg-elem-29"></path>
+        <path d="M47.2999 10.6001L59.0999 16.9001L47.2999 23.4001L35.3999 16.9001L47.2999 10.6001Z" fill="#FFC9AB" class="svg-elem-30"></path>
+        <mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="33" y="8" width="29" height="18">
+            <rect x="33.4443" y="8.51196" width="28" height="17" fill="url(#pattern1)" class="svg-elem-31"></rect>
+        </mask>
+        <g mask="url(#mask1)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M47.2999 10.6001L59.0999 16.9001L47.2999 23.4001L35.3999 16.9001L47.2999 10.6001Z" fill="white" class="svg-elem-32"></path>
+            </g>
+        </g>
+        <path d="M23.3999 144.3L35.3999 137.6V77L23.3999 83.7V144.3Z" fill="#42326E" class="svg-elem-33"></path>
+        <path d="M23.3999 144.3L11.3999 137.6V77L23.3999 83.7V144.3Z" fill="#6478DF" class="svg-elem-34"></path>
+        <path d="M23.3999 70.6001L11.3999 77.0001L23.3999 83.7001L35.3999 77.0001L23.3999 70.6001Z" fill="#BBC9FF" class="svg-elem-35"></path>
+        <mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="9" y="68" width="29" height="19">
+            <rect x="9.44434" y="68.512" width="28" height="18" fill="url(#pattern2)" class="svg-elem-36"></rect>
+        </mask>
+        <g mask="url(#mask2)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M23.3999 70.6001L11.3999 77.0001L23.3999 83.7001L35.3999 77.0001L23.3999 70.6001Z" fill="white" class="svg-elem-37"></path>
+            </g>
+        </g>
+        <path d="M567.8 551.6L610.6 523.2L419.3 404.4L376.6 430.8L567.8 551.6Z" fill="url(#paint3_linear)" class="svg-elem-38"></path>
+        <path d="M348.1 344.5L375.8 360.8L418.9 334.4L391.2 319.6L348.1 344.5Z" fill="#FFF7F4" class="svg-elem-39"></path>
+        <path d="M376.2 430.9L419.3 404.5L418.9 334.4L375.8 360.8L376.2 430.9Z" fill="#2C1D50" class="svg-elem-40"></path>
+        <path d="M348.5 414.6L376.2 430.9L375.8 360.8L348.1 344.5L348.5 414.6Z" fill="#F65C00" class="svg-elem-41"></path>
+        <path d="M375.8 355.5L410.7 334.4L410.6 321L375.7 342.1L375.8 355.5Z" fill="#42326E" class="svg-elem-42"></path>
+        <path d="M375.8 355.5L356.3 344.5L356.2 331.1L375.7 342.1L375.8 355.5Z" fill="#FB9E57" class="svg-elem-43"></path>
+        <path d="M375.7 342.1L356.2 331.1L391.1 311.4L410.6 321L375.7 342.1Z" fill="#BBC9FF" class="svg-elem-44"></path>
+        <path d="M329.2 376.3C331.9 376.3 339.8 374.9 339.8 367.5C339.8 360.1 334.4 360.6 334.4 355.2C334.4 349.8 338.4 347.8 338.4 339.9C338.4 332 333.5 334.5 333.5 327.1C333.5 319.7 334.5 310.8 329.3 310.6C324.1 310.4 323.1 317.8 322.9 320C322.7 322.2 323.6 328.1 321.9 330.9C320.2 333.6 319.9 334.6 319.9 336.8C319.9 339 322.9 343 322.9 347.2C322.9 351.4 318.7 358.8 318.9 366C319.1 373.2 325 376.2 329.2 376.3Z" fill="#FB9E57" class="svg-elem-45"></path>
+        <path d="M329.2 310.6V391.1" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-46"></path>
+        <path d="M337.6 344.6L329.2 355.4" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-47"></path>
+        <path d="M320.8 332.8L329.2 342.5" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-48"></path>
+        <path d="M320.3 358L329.2 370.7" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-49"></path>
+        <path d="M547.9 659.7L549.6 654.3L359.4 550.5L356.6 552.9L547.9 659.7Z" fill="url(#paint5_linear)" class="svg-elem-50"></path>
+        <path d="M361.806 495.501C364.292 495.497 366.304 494.195 366.301 492.593C366.299 490.992 364.282 489.697 361.796 489.701C359.311 489.705 357.299 491.007 357.301 492.609C357.304 494.211 359.321 495.505 361.806 495.501Z" fill="#6478DF" class="svg-elem-51"></path>
+        <path d="M366.299 489.893L357.399 489.909L357.404 492.609L366.304 492.593L366.299 489.893Z" fill="#6478DF" class="svg-elem-52"></path>
+        <path d="M361.806 492.601C364.291 492.597 366.304 491.295 366.301 489.693C366.298 488.092 364.281 486.797 361.796 486.801C359.311 486.806 357.298 488.107 357.301 489.709C357.304 491.311 359.321 492.606 361.806 492.601Z" fill="#BBC9FF" class="svg-elem-53"></path>
+        <path d="M357.404 552.901C359.061 552.898 360.403 552.18 360.401 551.296C360.4 550.412 359.055 549.698 357.398 549.701C355.742 549.704 354.4 550.423 354.401 551.306C354.403 552.19 355.747 552.904 357.404 552.901Z" fill="#6478DF" class="svg-elem-54"></path>
+        <path d="M356.4 489.9V550.9C356.4 551.2 356.8 551.4 357.4 551.4C358 551.4 358.4 551.2 358.4 550.9V489.9H356.4Z" fill="#42326E" class="svg-elem-55"></path>
+        <path d="M357.402 490.501C357.955 490.5 358.402 490.231 358.401 489.899C358.401 489.568 357.953 489.3 357.4 489.301C356.848 489.302 356.401 489.571 356.401 489.903C356.402 490.234 356.85 490.502 357.402 490.501Z" fill="#42326E" class="svg-elem-56"></path>
+        <path d="M385.9 674.7L387.6 669.3L197.4 565.5L194.6 567.9L385.9 674.7Z" fill="url(#paint6_linear)" class="svg-elem-57"></path>
+        <path d="M199.806 510.501C202.291 510.497 204.304 509.195 204.301 507.594C204.298 505.992 202.281 504.697 199.796 504.701C197.311 504.706 195.298 506.008 195.301 507.609C195.304 509.211 197.321 510.506 199.806 510.501Z" fill="#6478DF" class="svg-elem-58"></path>
+        <path d="M204.298 504.893L195.398 504.909L195.403 507.609L204.303 507.593L204.298 504.893Z" fill="#6478DF" class="svg-elem-59"></path>
+        <path d="M199.806 507.601C202.291 507.597 204.304 506.295 204.301 504.693C204.298 503.092 202.281 501.797 199.796 501.801C197.311 501.806 195.298 503.107 195.301 504.709C195.304 506.311 197.321 507.606 199.806 507.601Z" fill="#BBC9FF" class="svg-elem-60"></path>
+        <path d="M195.404 567.901C197.06 567.898 198.402 567.18 198.401 566.296C198.399 565.412 197.055 564.698 195.398 564.701C193.741 564.704 192.399 565.423 192.401 566.307C192.402 567.19 193.747 567.904 195.404 567.901Z" fill="#6478DF" class="svg-elem-61"></path>
+        <path d="M194.4 504.9V565.9C194.4 566.2 194.8 566.4 195.4 566.4C196 566.4 196.4 566.2 196.4 565.9V504.9H194.4Z" fill="#42326E" class="svg-elem-62"></path>
+        <path d="M195.402 505.501C195.954 505.5 196.402 505.231 196.401 504.9C196.4 504.568 195.952 504.3 195.4 504.301C194.848 504.302 194.4 504.572 194.401 504.903C194.402 505.234 194.85 505.502 195.402 505.501Z" fill="#42326E" class="svg-elem-63"></path>
+        <path d="M595.9 690.7L597.6 685.3L407.4 581.5L404.6 583.9L595.9 690.7Z" fill="url(#paint7_linear)" class="svg-elem-64"></path>
+        <path d="M409.806 526.501C412.292 526.497 414.304 525.195 414.301 523.593C414.299 521.992 412.282 520.697 409.796 520.701C407.311 520.705 405.299 522.007 405.301 523.609C405.304 525.211 407.321 526.505 409.806 526.501Z" fill="#6478DF" class="svg-elem-65"></path>
+        <path d="M414.299 520.893L405.399 520.909L405.404 523.609L414.304 523.593L414.299 520.893Z" fill="#6478DF" class="svg-elem-66"></path>
+        <path d="M409.806 523.601C412.291 523.597 414.304 522.295 414.301 520.693C414.298 519.092 412.281 517.797 409.796 517.801C407.311 517.806 405.298 519.107 405.301 520.709C405.304 522.311 407.321 523.606 409.806 523.601Z" fill="#BBC9FF" class="svg-elem-67"></path>
+        <path d="M405.404 583.901C407.061 583.898 408.403 583.18 408.401 582.296C408.4 581.412 407.055 580.698 405.398 580.701C403.742 580.704 402.4 581.423 402.401 582.306C402.403 583.19 403.747 583.904 405.404 583.901Z" fill="#6478DF" class="svg-elem-68"></path>
+        <path d="M404.4 520.9V581.9C404.4 582.2 404.8 582.4 405.4 582.4C406 582.4 406.4 582.2 406.4 581.9V520.9H404.4Z" fill="#42326E" class="svg-elem-69"></path>
+        <path d="M405.402 521.501C405.955 521.5 406.402 521.231 406.401 520.899C406.401 520.568 405.953 520.3 405.4 520.301C404.848 520.302 404.401 520.571 404.401 520.903C404.402 521.234 404.85 521.502 405.402 521.501Z" fill="#42326E" class="svg-elem-70"></path>
+        <path d="M274.8 677.7L316.9 650.3L150.7 550.5L110.3 576.2L274.8 677.7Z" fill="url(#paint8_linear)" class="svg-elem-71"></path>
+        <path d="M109.9 575.9L69.6997 553.6V411.9L109.9 434.2V575.9Z" fill="#42326E" class="svg-elem-72"></path>
+        <path d="M109.9 575.9L150.1 553.6V411.9L109.9 434.2V575.9Z" fill="#F65C00" class="svg-elem-73"></path>
+        <path d="M109.9 390.5L150.1 411.9L109.9 434.1L69.6997 411.9L109.9 390.5Z" fill="#FFE3D7" class="svg-elem-74"></path>
+        <mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="67" y="388" width="86" height="49">
+            <rect x="67.4443" y="388.512" width="85" height="48" fill="url(#pattern3)" class="svg-elem-75"></rect>
+        </mask>
+        <g mask="url(#mask3)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M109.9 390.5L150.1 411.9L109.9 434.1L69.6997 411.9L109.9 390.5Z" fill="white" class="svg-elem-76"></path>
+            </g>
+        </g>
+        <path d="M115.1 139C117.8 139 125.5 137.6 125.5 130.4C125.5 123.2 120.2 123.6 120.2 118.3C120.2 113 124.1 111.1 124.1 103.3C124.1 95.6 119.3 98 119.3 90.8C119.3 83.6 120.3 74.9 115.2 74.6C110.1 74.4 109.2 81.6 108.9 83.8C108.7 86 109.6 91.8 107.9 94.4C106.2 97.1 106 98 106 100.2C106 102.4 108.9 106.2 108.9 110.3C108.9 114.4 104.8 121.6 105 128.6C105.2 135.7 111 138.9 115.1 139Z" fill="#F65C00" class="svg-elem-77"></path>
+        <path d="M115.1 74.8V153.5" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-78"></path>
+        <path d="M123.3 108.1L115 118.6" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-79"></path>
+        <path d="M106.8 96.5L115.1 106" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-80"></path>
+        <path d="M106.3 121.1L115.1 133.5" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-81"></path>
+        <path d="M795.638 598.798C798.153 598.798 805.438 597.497 805.438 590.647C805.438 583.796 800.408 584.229 800.408 579.286C800.408 574.256 804.05 572.435 804.05 565.151C804.05 557.866 799.454 560.121 799.454 553.27C799.454 546.419 800.408 538.181 795.552 538.007C790.782 537.747 789.828 544.598 789.655 546.679C789.395 548.761 790.348 554.224 788.701 556.739C787.053 559.254 786.88 560.121 786.88 562.202C786.88 564.284 789.655 567.926 789.655 571.742C789.655 575.557 785.752 582.495 786.012 589.086C786.359 595.676 791.823 598.712 795.638 598.798Z" fill="#F65C00" class="svg-elem-82"></path>
+        <path d="M795.638 538.181V612.5" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-83"></path>
+        <path d="M803.443 569.573L795.638 579.546" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-84"></path>
+        <path d="M787.92 558.647L795.725 567.666" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-85"></path>
+        <path d="M787.4 581.888L795.725 593.682" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-86"></path>
+        <path d="M161.2 580.6L183.6 568.4L183.2 483.1L160.8 495.2L161.2 580.6Z" fill="#0D0D2B" class="svg-elem-87"></path>
+        <path d="M161.2 580.6L139.1 568L138.7 482.6L160.8 495.2L161.2 580.6Z" fill="#42326E" class="svg-elem-88"></path>
+        <g opacity="0.5">
+            <path opacity="0.8" d="M165.3 491.4L165.7 578.8" stroke="#FFFBD0" stroke-miterlimit="10" class="svg-elem-89"></path>
+            <path opacity="0.8" d="M169.9 488.7L170.3 576" stroke="#FFFBD0" stroke-miterlimit="10" class="svg-elem-90"></path>
+            <path opacity="0.8" d="M174.6 486.9L174.9 573.3" stroke="#FFFBD0" stroke-miterlimit="10" class="svg-elem-91"></path>
+            <path opacity="0.8" d="M179.2 483.2L179.6 570.5" stroke="#FFFBD0" stroke-miterlimit="10" class="svg-elem-92"></path>
+        </g>
+        <path d="M161.1 471L138.7 482.7L160.8 495.2L183.2 483.1L161.1 471Z" fill="#6478DF" class="svg-elem-93"></path>
+        <mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="136" y="468" width="50" height="30">
+            <rect x="136.444" y="468.512" width="49" height="29" fill="url(#pattern4)" class="svg-elem-94"></rect>
+        </mask>
+        <g mask="url(#mask4)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M161.1 471L138.7 482.7L160.8 495.2L183.2 483.1L161.1 471Z" fill="white" class="svg-elem-95"></path>
+            </g>
+        </g>
+        <path d="M161.1 474L144.2 482.8L160.9 492.2L177.7 483.1L161.1 474Z" fill="white" class="svg-elem-96"></path>
+        <mask id="mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="141" y="471" width="40" height="24">
+            <rect x="141.444" y="471.512" width="39" height="23" fill="url(#pattern5)" class="svg-elem-97"></rect>
+        </mask>
+        <g mask="url(#mask5)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M161.1 474L144.2 482.8L160.9 492.2L177.7 483.1L161.1 474Z" fill="white" class="svg-elem-98"></path>
+            </g>
+        </g>
+        <path d="M161 475.2L146.4 482.8L160.9 491L175.5 483.1L161 475.2Z" fill="#6478DF" class="svg-elem-99"></path>
+        <mask id="mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="143" y="472" width="36" height="22">
+            <rect x="143.444" y="472.512" width="35" height="21" fill="url(#pattern6)" class="svg-elem-100"></rect>
+        </mask>
+        <g mask="url(#mask6)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M161 475.2L146.4 482.8L160.9 491L175.5 483.1L161 475.2Z" fill="white" class="svg-elem-101"></path>
+            </g>
+        </g>
+        <path d="M261.8 380.7L293.5 360.3L102.3 241.6L70.5 262.9L261.8 380.7Z" fill="url(#paint10_linear)" class="svg-elem-102"></path>
+        <path d="M69.2999 175L49.3999 164L79.2999 145.6L99.2999 156.5L69.2999 175Z" fill="#95A4ED" class="svg-elem-103"></path>
+        <path d="M70.2999 262.9L50.3999 251.9L49.3999 164L69.2999 175L70.2999 262.9Z" fill="#6478DF" class="svg-elem-104"></path>
+        <path d="M99.2998 156.5L100.3 244.5L70.2998 262.9L69.2998 175L99.2998 156.5Z" fill="#2C1D50" class="svg-elem-105"></path>
+        <path d="M41.1002 583C46.5002 583.1 62.1002 580.2 62.1002 565.5C62.1002 550.8 51.3002 551.8 51.3002 541C51.3002 530.2 59.1002 526.3 59.1002 510.7C59.1002 495.1 49.3002 499.9 49.3002 485.3C49.3002 470.7 51.3002 453 41.0002 452.5C30.7002 452 28.8002 466.7 28.3002 471.1C27.8002 475.5 29.8002 487.2 26.3002 492.6C22.9002 498 22.4002 499.9 22.4002 504.3C22.4002 508.7 28.3002 516.5 28.3002 524.8C28.3002 533.1 20.0002 547.8 20.5002 562C21.0002 576.2 32.8002 582.9 41.1002 583Z" fill="#FB9E57" class="svg-elem-106"></path>
+        <path d="M41.1006 453V612.5" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-107"></path>
+        <path d="M57.8005 520.4L41.0005 541.7" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-108"></path>
+        <path d="M24.4004 496.9L41.1004 516.2" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-109"></path>
+        <path d="M23.4004 546.8L41.1004 572" stroke="#682615" stroke-width="0.5" stroke-miterlimit="10" class="svg-elem-110"></path>
+        <path d="M109.4 267.1L127.4 257.1V203.7L109.4 213.7V267.1Z" fill="#F65C00" class="svg-elem-111"></path>
+        <path d="M109.4 267.1L91.3999 257.1V203.7L109.4 213.7V267.1Z" fill="#FB9E57" class="svg-elem-112"></path>
+        <path d="M109.4 194.1L91.3999 203.7L109.4 213.7L127.4 203.7L109.4 194.1Z" fill="#FFC9AB" class="svg-elem-113"></path>
+        <mask id="mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="89" y="191" width="41" height="26">
+            <rect x="89.4443" y="191.512" width="40" height="25" fill="url(#pattern7)" class="svg-elem-114"></rect>
+        </mask>
+        <g mask="url(#mask7)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M109.4 194.1L91.3999 203.7L109.4 213.7L127.4 203.7L109.4 194.1Z" fill="white" class="svg-elem-115"></path>
+            </g>
+        </g>
+        <path d="M430.3 634.1L446.5 624.2L340.7 561.3L324.5 570L430.3 634.1Z" fill="url(#paint11_linear)" class="svg-elem-116"></path>
+        <path d="M328.4 571.8L343.9 563.2V545.1L328.4 553.7V571.8Z" fill="#F65C00" class="svg-elem-117"></path>
+        <path d="M328.4 571.8L313.5 563.8V545.7L328.4 553.7V571.8Z" fill="#6478DF" class="svg-elem-118"></path>
+        <path d="M328.4 536.7L313.5 545.8L328.4 553.6L343.9 545.2L328.4 536.7Z" fill="#BBC9FF" class="svg-elem-119"></path>
+        <mask id="mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="311" y="534" width="36" height="23">
+            <rect x="311.444" y="534.512" width="35" height="22" fill="url(#pattern8)" class="svg-elem-120"></rect>
+        </mask>
+        <g mask="url(#mask8)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M328.4 536.7L313.5 545.8L328.4 553.6L343.9 545.2L328.4 536.7Z" fill="white" class="svg-elem-121"></path>
+            </g>
+        </g>
+        <path d="M430.3 672.1L446.5 662.2L346.7 599.3L330.5 608L430.3 672.1Z" fill="url(#paint13_linear)" class="svg-elem-122"></path>
+        <path d="M333.4 609.8L348.9 601.2V583.1L333.4 591.7V609.8Z" fill="#42326E" class="svg-elem-123"></path>
+        <path d="M333.4 609.8L318.5 601.8V583.7L333.4 591.7V609.8Z" fill="#6478DF" class="svg-elem-124"></path>
+        <path d="M333.4 574.7L318.5 583.8L333.4 591.6L348.9 583.2L333.4 574.7Z" fill="#BBC9FF" class="svg-elem-125"></path>
+        <mask id="mask9" mask-type="alpha" maskUnits="userSpaceOnUse" x="316" y="572" width="36" height="23">
+            <rect x="316.444" y="572.512" width="35" height="22" fill="url(#pattern9)" class="svg-elem-126"></rect>
+        </mask>
+        <g mask="url(#mask9)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M333.4 574.7L318.5 583.8L333.4 591.6L348.9 583.2L333.4 574.7Z" fill="white" class="svg-elem-127"></path>
+            </g>
+        </g>
+        <path d="M643.2 566.1L666.8 551.1L528.9 467.7L505.3 481.3L643.2 566.1Z" fill="url(#paint14_linear)" class="svg-elem-128"></path>
+        <path d="M505.4 481.3L528.4 468.6L528.9 362.2L505.9 374.8L505.4 481.3Z" fill="#42326E" class="svg-elem-129"></path>
+        <path d="M505.4 481.3L482.4 468.4L483 361.9L505.9 374.8L505.4 481.3Z" fill="#6478DF" class="svg-elem-130"></path>
+        <path d="M506 350.8L483 362L505.9 374.8L528.9 362.2L506 350.8Z" fill="#BBC9FF" class="svg-elem-131"></path>
+        <mask id="mask10" mask-type="alpha" maskUnits="userSpaceOnUse" x="480" y="348" width="52" height="30">
+            <rect x="480.444" y="348.512" width="51" height="29" fill="url(#pattern10)" class="svg-elem-132"></rect>
+        </mask>
+        <g mask="url(#mask10)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M506 350.8L483 362L505.9 374.8L528.9 362.2L506 350.8Z" fill="white" class="svg-elem-133"></path>
+            </g>
+        </g>
+        <path d="M506.4 371.4L524.4 361.4V340.4L506.4 350.3V371.4Z" fill="#42326E" class="svg-elem-134"></path>
+        <path d="M506.4 371.4L489 362.1V341.1L506.4 350.3V371.4Z" fill="#6478DF" class="svg-elem-135"></path>
+        <path d="M506.4 330.5L489 341.1L506.4 350.3L524.4 340.4L506.4 330.5Z" fill="#BBC9FF" class="svg-elem-136"></path>
+        <mask id="mask11" mask-type="alpha" maskUnits="userSpaceOnUse" x="486" y="328" width="41" height="25">
+            <rect x="486.444" y="328.512" width="40" height="24" fill="url(#pattern11)" class="svg-elem-137"></rect>
+        </mask>
+        <g mask="url(#mask11)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M506.4 330.5L489 341.1L506.4 350.3L524.4 340.4L506.4 330.5Z" fill="white" class="svg-elem-138"></path>
+            </g>
+        </g>
+        <path d="M648.1 622.6L667 609.4L492.9 504L474 515.3L648.1 622.6Z" fill="url(#paint15_linear)" class="svg-elem-139"></path>
+        <path d="M473.8 515.3L492.9 504.1L491.5 415.2L472.5 436.4L473.8 515.3Z" fill="#42326E" class="svg-elem-140"></path>
+        <path d="M473.8 515.3L454.3 505L452.9 426.1L472.5 436.4L473.8 515.3Z" fill="#FB9E57" class="svg-elem-141"></path>
+        <path d="M472 405.4L452.9 426.2L472.5 436.4L491.5 415.3L472 405.4Z" fill="#FFC9AB" class="svg-elem-142"></path>
+        <mask id="mask12" mask-type="alpha" maskUnits="userSpaceOnUse" x="450" y="402" width="45" height="37">
+            <rect x="450.444" y="402.512" width="44" height="36" fill="url(#pattern12)" class="svg-elem-143"></rect>
+        </mask>
+        <g mask="url(#mask12)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M472 405.4L452.9 426.2L472.5 436.4L491.5 415.3L472 405.4Z" fill="white" class="svg-elem-144"></path>
+            </g>
+        </g>
+        <path d="M392.2 550.3L428.9 525.9L237.7 408.1L201 430.5L392.2 550.3Z" fill="url(#paint16_linear)" class="svg-elem-145"></path>
+        <path d="M236.5 306.1L199.8 328.5L144.4 296.1L181.2 273.7L236.5 306.1Z" fill="#FFEEE7" class="svg-elem-146"></path>
+        <path d="M201 430.5L145.6 398.1L144.4 296.1L199.8 328.5L201 430.5Z" fill="#FFE2D2" class="svg-elem-147"></path>
+        <path d="M237.7 408.1L201 430.5L199.8 328.5L236.5 306.1L237.7 408.1Z" fill="#FBCBAE" class="svg-elem-148"></path>
+        <path d="M198.9 340.5L144.6 310.1" stroke="white" stroke-miterlimit="10" class="svg-elem-149"></path>
+        <path d="M199.1 355.5L144.7 325.1" stroke="white" stroke-miterlimit="10" class="svg-elem-150"></path>
+        <path d="M199.199 368.5L144.899 338.1" stroke="white" stroke-miterlimit="10" class="svg-elem-151"></path>
+        <path d="M199.4 381.5L145 351.1" stroke="white" stroke-miterlimit="10" class="svg-elem-152"></path>
+        <path d="M199.6 396.5L145.2 366.1" stroke="white" stroke-miterlimit="10" class="svg-elem-153"></path>
+        <path d="M199.699 409.5L145.399 379.1" stroke="white" stroke-miterlimit="10" class="svg-elem-154"></path>
+        <path d="M199.9 422.5L145.5 392.1" stroke="white" stroke-miterlimit="10" class="svg-elem-155"></path>
+        <path d="M247.3 442.5L267 431.6L267.4 340.3L247.7 351.2L247.3 442.5Z" fill="#42326E" class="svg-elem-156"></path>
+        <path d="M247.3 442.5L227.6 431.4L228 340.1L247.7 351.2L247.3 442.5Z" fill="#6478DF" class="svg-elem-157"></path>
+        <path d="M247.8 330.6L228 340.2L247.7 351.1L267.4 340.3L247.8 330.6Z" fill="#BBC9FF" class="svg-elem-158"></path>
+        <mask id="mask13" mask-type="alpha" maskUnits="userSpaceOnUse" x="225" y="328" width="45" height="26">
+            <rect x="225.444" y="328.512" width="44" height="25" fill="url(#pattern13)" class="svg-elem-159"></rect>
+        </mask>
+        <g mask="url(#mask13)">
+            <g opacity="0.15">
+                <path opacity="0.15" d="M247.8 330.6L228 340.2L247.7 351.1L267.4 340.3L247.8 330.6Z" fill="white" class="svg-elem-160"></path>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0"></use>
+        </pattern>
+        <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern11" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern12" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image1"></use>
+        </pattern>
+        <linearGradient id="paint0_linear" x1="60.6513" y1="134.406" x2="179.793" y2="202.865" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.6322" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="37.0212" y1="148.308" x2="170.57" y2="225.045" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.6322" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint2_linear" x1="-0.701897" y1="80.6965" x2="8.5539" y2="95.9759" gradientUnits="userSpaceOnUse">
+            <stop offset="0.3296" stop-color="#6478DF"></stop>
+            <stop offset="1" stop-color="#4148D5"></stop>
+        </linearGradient>
+        <linearGradient id="paint3_linear" x1="403.134" y1="425.985" x2="584.942" y2="530.451" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.3461" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="0.5475" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint4_linear" x1="346.639" y1="387.133" x2="377.637" y2="388.168" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FB9E57"></stop>
+            <stop offset="0.7318" stop-color="#F85E28"></stop>
+        </linearGradient>
+        <linearGradient id="paint5_linear" x1="374.413" y1="558.375" x2="534.412" y2="650.31" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.3"></stop>
+            <stop offset="0.1148" stop-color="#DBD7D7" stop-opacity="0.1103"></stop>
+            <stop offset="0.1816" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint6_linear" x1="212.418" y1="573.375" x2="372.417" y2="665.309" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.3"></stop>
+            <stop offset="0.1148" stop-color="#DBD7D7" stop-opacity="0.1103"></stop>
+            <stop offset="0.1816" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint7_linear" x1="422.412" y1="589.374" x2="582.411" y2="681.309" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.3"></stop>
+            <stop offset="0.1148" stop-color="#DBD7D7" stop-opacity="0.1103"></stop>
+            <stop offset="0.1816" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint8_linear" x1="134.831" y1="569.458" x2="292.772" y2="659.909" gradientUnits="userSpaceOnUse">
+            <stop offset="0.162" stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.6918" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint9_linear" x1="180.618" y1="464.69" x2="79.4164" y2="523.119" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FB9E57"></stop>
+            <stop offset="0.7318" stop-color="#F85E28"></stop>
+        </linearGradient>
+        <linearGradient id="paint10_linear" x1="94.7425" y1="260.988" x2="271.471" y2="362.494" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.3002" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="0.4749" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint11_linear" x1="337.19" y1="569.942" x2="434.222" y2="625.696" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.3461" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="0.5475" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint12_linear" x1="328.413" y1="558.447" x2="343.91" y2="558.447" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FB9E57"></stop>
+            <stop offset="0.7318" stop-color="#F85E28"></stop>
+        </linearGradient>
+        <linearGradient id="paint13_linear" x1="342.071" y1="609.021" x2="435.302" y2="662.592" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.3461" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="0.5475" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint14_linear" x1="522.502" y1="480.383" x2="650.163" y2="553.737" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.3461" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="0.5475" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint15_linear" x1="492.634" y1="518.534" x2="649.101" y2="608.44" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.3567" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="0.5642" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint16_linear" x1="225.834" y1="427.977" x2="404.934" y2="530.886" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#978B8A" stop-opacity="0.5"></stop>
+            <stop offset="0.3461" stop-color="#DBD7D7" stop-opacity="0.1839"></stop>
+            <stop offset="0.5475" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <clipPath id="clip0">
+            <rect width="1229" height="619" fill="white" transform="translate(-1)" class="svg-elem-161"></rect>
+        </clipPath>
+        <image id="image0" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEALAAsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"></image>
+        <image id="image1" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA"></image>
+    </defs>
+</svg>

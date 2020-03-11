@@ -1,0 +1,422 @@
+.nav-fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  width: 100%;
+  height: auto !important;
+  box-shadow: none;
+
+  .v-toolbar__title{
+    width: 125px;
+
+    @media (max-width: 640px){
+      width: 91px;
+      z-index: 10;
+      position: relative;
+    }
+
+    .logo{
+      width: 100%;
+
+      svg{
+        width: 100%;
+      }
+    }
+  }
+
+  &.theme--dark.v-sheet{
+    background: $white;
+  }
+
+  .v-toolbar__content{
+    padding: 17px 40px 28px 40px;
+    height: auto !important;
+    align-items: center;
+
+    @media (max-width: 640px){
+      padding: 12px 15px 18px 31px;
+    }
+  }
+
+  nav{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: auto;
+
+    @media (max-width: 640px){
+      margin-top: 113px;
+      width: auto;
+      flex-direction: column;
+      align-items: flex-start;
+      height: auto;
+    }
+
+    a{
+      color: $darken;
+      text-decoration: none;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 13px;
+      line-height: 17px;
+      color: $darken;
+      margin-top: 12px;
+      margin-left: 20px;
+      white-space: nowrap;
+
+      @media (max-width: 640px){
+        margin-left: 22px;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 19px;
+        color: #000000;
+      }
+
+      &:hover{
+        color: $blue;
+        transition: $trs-4;
+      }
+    }
+  }
+
+  .v-toolbar__items{
+    margin-left: auto;
+    background: $white;
+
+    .social-bar{
+      margin-top: 18px;
+      display: flex;
+      align-items: flex-start;
+
+      @media (max-width: 640px){
+        width: 100%;
+        align-items: flex-end;
+        justify-content: center;
+        flex-direction: column-reverse;
+        position: absolute;
+        min-height: 247px;
+        top: 27%;
+        background: transparent url('/back-nav-mobile.svg') no-repeat;
+        background-size: auto 100%;
+        background-position: 100% 0;
+        z-index: 8;
+      }
+
+      &-link{
+        height: 18px;
+        color: $grey;
+        margin-left: 8px;
+        margin-right: 8px;
+
+        @media (max-width: 640px){
+          height: auto;
+          margin-top: 15px;
+          margin-bottom: 15px;
+          margin-right: 44px;
+        }
+
+        svg{
+          width: auto;
+          min-height: 100%;
+
+          @media (max-width: 640px){
+            font-size: 27px;
+          }
+        }
+
+        &:hover{
+          transition: $trs-4;
+          color: $blue;
+        }
+      }
+    }
+
+    @media (max-width: 640px){
+      position: fixed;
+      z-index: 9;
+      width: 100%;
+      min-height: 100vh;
+      top: 0;
+      left: 100%;
+      transition: $trs-4;
+      flex-direction: column;
+      padding-bottom: 46px;
+
+      &.active{
+        left: 0%;
+      }
+    }
+  }
+
+  .drops-bar{
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    padding-left: 7px;
+
+    @media (max-width: 640px){
+      flex-direction: column;
+      align-items: flex-start;
+      margin-top: auto;
+      position: relative;
+      z-index: 9;
+
+    }
+
+    &-item{
+      padding-left: 15px;
+      display: flex;
+      align-items: center;
+
+      &.xs-display-none{
+        display: flex;
+
+        @media (max-width: 640px){
+          margin-left: 0;
+          display: none;
+        }
+      }
+
+      &.xs-display-show{
+        display: none;
+
+        @media (max-width: 640px){
+          margin-left: 0;
+          display: flex;
+
+          .mobile-text{
+            margin-left: 15px;
+          }
+        }
+      }
+
+      @media (max-width: 640px){
+        padding-left: 24px;
+        margin-bottom: 22px;
+      }
+
+      &-btn{
+        box-shadow: none;
+        outline: none;
+        display: flex;
+        align-items: center;
+        color: $blue;
+
+        &.orange-color{
+          svg{
+            color: $orange;
+          }
+        }
+
+
+        .trakking{
+          font-style: normal;
+          font-weight: normal;
+          font-size: 12px;
+          line-height: 16px;
+          text-align: right;
+          color: $blue;
+          padding-left: 6px;
+
+          @media (max-width: 640px){
+            padding-left: 15px;
+            text-transform: capitalize;
+          }
+        }
+
+        svg{
+          font-size: 25px;
+        }
+      }
+      &-info{
+
+        &--tel{
+          font-style: normal;
+          font-weight: 600;
+          font-size: 14px;
+          line-height: 18px;
+          text-align: right;
+          color: $blue;
+          text-decoration: none;
+          margin-left: 7px;
+          white-space: nowrap;
+
+          &:hover{
+            color: $orange;
+            transition: $trs-4;
+          }
+        }
+
+        &--search-field{
+          margin-left: 11px;
+          margin-top: -6px;
+          @media (max-width: 640px){
+            margin-left: 0;
+          }
+
+          .v-input__slot{
+            border-bottom: 1px solid $orange;
+
+            @media (max-width: 640px){
+              margin-left: 15px;
+            }
+
+            &:after{
+              border-color: $orange;
+            }
+          }
+
+
+
+          &.v-input:not(.v-input--is-disabled) input{
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 18px;
+            color: $darken;
+            caret-color: $orange;
+          }
+
+          .v-input__slot{
+            margin-bottom: 0;
+          }
+
+          .v-text-field__details{
+            display: none;
+          }
+        }
+      }
+    }
+  }
+
+  .user{
+    width: 33px;
+    height: 33px;
+    background: $blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 33px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+
+    .mobile-text{
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 16px;
+      color: $blue;
+      white-space: nowrap;
+      margin-left: 17px;
+    }
+
+    @media (max-width: 640px){
+      background: transparent;
+      margin-left: 24px;
+      width: auto;
+
+      .xs-display-show{
+        display: inline-flex;
+      }
+    }
+
+    &:hover{
+      background: $orange;
+      transition: $trs-4;
+
+      @media (max-width: 640px){
+        background: transparent;
+      }
+    }
+
+    svg{
+      color: $white;
+      font-size: 13px;
+      margin-top: -2px;
+
+      @media (max-width: 640px){
+        font-size: 25px;
+        color: $blue;
+      }
+    }
+  }
+
+  .theme--dark.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined).btn-custom{
+    margin-top: 11px;
+
+    @media (max-width: 640px){
+      display: none;
+    }
+  }
+}
+
+.theme--dark.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined).burger-menu{
+  display: none;
+  box-shadow: none;
+
+  @media (max-width: 640px){
+    display: block;
+    margin-left: auto;
+    background: transparent;
+    overflow: hidden;
+    z-index: 10;
+    position: relative;
+
+    &:before{
+      display: none;
+    }
+
+    .v-ripple__container{
+      display: none;
+    }
+    .v-btn__content{
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      flex-direction: column;
+      margin-left: auto;
+
+      .string{
+        width: 12px;
+        height: 2px;
+        border-radius: 10px;
+        background: $orange;
+        margin-bottom: 3px;
+        transition: $trs-4;
+
+        &:nth-child(2){
+          width: 16px;
+        }
+
+        &:last-child{
+          width: 11px;
+        }
+      }
+    }
+
+    &.active{
+      .v-btn__content{
+        .string{
+          width: 16px;
+          margin-bottom: -2px;
+          margin-top: 0;
+          transform: rotate(135deg);
+
+          &:nth-child(2){
+            width: 16px;
+            transform: translateX(16px);
+          }
+
+          &:last-child{
+            margin-top: 0;
+            margin-bottom: 0;
+            transform: rotate(-135deg)
+          }
+        }
+      }
+    }
+  }
+}

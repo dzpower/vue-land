@@ -1,0 +1,65 @@
+.theme--dark.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined).btn-custom{
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: $black;
+  display: flex;
+  align-items: center;
+  position: relative;
+  background: transparent;
+  box-shadow: none;
+  padding: 11px;
+
+  &:before{
+    display: none;
+  }
+
+  .v-ripple__container{
+    display: none;
+  }
+
+  svg{
+    margin-left: 8px;
+    font-size: 8px;
+  }
+
+  &:after{
+    content: '';
+    width: 33px;
+    height: 33px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-radius: 100px;
+    background: $orange_l;
+    box-shadow: none;
+    z-index: 1;
+    transform: translateY(2px);
+    transition: $trs-4;
+  }
+
+  .v-btn__content{
+    position: relative;
+    z-index: 2;
+  }
+
+  &:hover{
+    &:after{
+      width: 100%;
+    }
+  }
+
+  &-page{
+    padding: 14px 21px;
+    font-size: 14px;
+    line-height: 18px;
+
+    &:after{
+      width: 46px;
+      height: 46px;
+      margin-top: -2px;
+    }
+  }
+}
